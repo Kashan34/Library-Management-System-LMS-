@@ -46,4 +46,4 @@ Each role has different capabilities and menu options.
 1. **Open terminal** in the project directory.
 2. Compile:
 - Any C++ compiler
--
+
